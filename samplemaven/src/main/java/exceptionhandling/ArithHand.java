@@ -11,13 +11,13 @@ public class ArithHand {
 		{
 			int c=a/b;
 		}
-		/*catch(ArithmeticException var)
+		catch(ArithmeticException var)
 		{
 			 b=2;
 			int d=a/b;
 			System.out.println(d);
 			System.out.println(var);
-		}*/
+		}
 		
 		finally
 		{
